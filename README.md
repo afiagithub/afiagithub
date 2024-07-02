@@ -1,17 +1,22 @@
+<img src="https://i.ibb.co/ygMFRRY/gitbg.png" alt="Afia Rahman Banner Image">
+
 ## About Me
 Welcome to my profile! My name is Afia Rahman. I am an enthusiastic and highly motivated full-stack web developer, well-versed in HTML5, Tailwind CSS, React, Node.js and Mongodb. With a solid foundation in frontend and backend technologies, I specialize in crafting engaging user experiences and robust, scalable web applications. I am highly motivated, eager to contribute my skills and knowledge to real-world projects and learn from experienced professionals in the web development field. My [CV](https://drive.google.com/file/d/1D_GOG9QFB0pQdYZKa0BuWGiwptPbWHzP/view) and [Portfolio](https://afiarahman-portfolio.netlify.app/) are provided here.
 
 <br>
 
 ## Daily Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=afiagithub&theme=dracula&hide_border=true&card_width=500)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img align="center" width=500 src="https://streak-stats.demolab.com?user=afiagithub&theme=dracula&hide_border=true" alt="afia" />
+    </a>
+</div>
 
 <br>
 
 ## Familiar Tech
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="">
