@@ -3,7 +3,13 @@ Welcome to my profile! My name is Afia Rahman. I am an enthusiastic and highly m
 
 <br>
 
-## Familiar Tech / Skills
+## Daily Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=afiagithub&theme=dracula&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
+<br>
+
+## Familiar Tech
 
 <table>
   <tr>
