@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co.com/ygMFRRY/gitbg.png" alt="Afia Rahman Banner Image">
 
 ## About Me
-Welcome to my profile! My name is Afia Rahman. I am an enthusiastic and highly motivated full-stack web developer, well-versed in HTML5, Tailwind CSS, React, Node.js and Mongodb. With a solid foundation in frontend and backend technologies, I specialize in crafting engaging user experiences and robust, scalable web applications. I am highly motivated, eager to contribute my skills and knowledge to real-world projects and learn from experienced professionals in the web development field. My [CV](https://drive.google.com/file/d/1D_GOG9QFB0pQdYZKa0BuWGiwptPbWHzP/view) and [Portfolio](https://afiarahman-portfolio.netlify.app/) are provided here.
+Welcome to my profile! My name is Afia Rahman. I am an enthusiastic and highly motivated full-stack web developer, well-versed in HTML5, Tailwind CSS, React, Node.js and Mongodb. With a solid foundation in frontend and backend technologies, I specialize in crafting engaging user experiences and robust, scalable web applications. I am highly motivated, eager to contribute my skills and knowledge to real-world projects and learn from experienced professionals in the web development field. My [CV](https://drive.google.com/file/d/1Iz4WZS3ckkpvBwSOpfxhqVTDYcr2yVR_/view?usp=sharing) and [Portfolio](https://afiarahman-portfolio.netlify.app/) are provided here.
 
 <br>
 
